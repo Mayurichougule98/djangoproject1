@@ -1,0 +1,21 @@
+.navbar {
+  font-family: "Six Caps";
+  font-size: xx-large;
+}
+
+.carousel .carousel-item {
+  height: 400px;
+}
+
+.carousel-item img {
+    height: 400px;
+}
+h3{
+    size: xx-large;
+    color: blue;
+    text-align : center;
+    font-family: "Six Caps";
+}
+.form-control {
+    border-radius : 10px;
+}
